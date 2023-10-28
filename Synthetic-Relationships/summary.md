@@ -6,7 +6,7 @@
 ## Diagram Week 02
 ![Frame 2](https://github.com/BakariSp/Creative_tech_03/assets/46394756/a4ea000c-a136-47b7-a75e-57541653db46)
 
-'''c
+```c
 void loop() {
   // io.run(); is required for all sketches.
   // it should always be present at the top of your loop
@@ -52,4 +52,4 @@ void handleMessage(AdafruitIO_Data *data) {
   Serial.println(getMsg);
 }
 
-'''
+```
