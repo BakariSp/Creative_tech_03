@@ -125,3 +125,9 @@ void handleMessage(AdafruitIO_Data *data) {
 }
 
 ```
+
+![Diagram](https://github.com/BakariSp/Creative_tech_03/assets/46394756/92d00fa0-3a1a-4158-a16b-1207f71b7a43)
+
+[![Prototype](https://github.com/BakariSp/Creative_tech_03/assets/46394756/004fbd6f-cb7b-47f6-b25c-cd0390c25541)]([https://vimeo.com/878148501])
+
+
